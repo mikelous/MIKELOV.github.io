@@ -1,0 +1,49 @@
+<!DOCTYPE html/>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Blog Of time trap</title>
+    </head>
+    <style> 
+        body { text-align: center;
+        background:rgb(215, 238, 242);
+        }
+        .STRANGE {
+            font-size:4em;
+            font-weight: bold;
+        }
+        h1 {font-size: 4em;}
+        h2 {font-size: 1.5em;}
+         h3 {font-size: 2em;}
+    </style>
+    
+    <body>
+       
+        <h1  >Mikelov's blog</h1>
+
+        <h3>The "Time" trick me</h3>
+        <ul>
+            <li > <a href="#cracky">  Cracky Clock </a> </li>
+            <li > <a href="#cracky2">  Cracky Clock trap </a> </li>
+            
+        </ul>
+        
+        
+        
+        
+        
+        <h2 id="cracky">Cracky Clock</h2>
+        <h6>05 of May 2021 </h6>
+        
+        <p>In the moment of truth I coudn´t find my wallet  I and I need to pay for a cab to see myself in the mirrow of the other universe so I change  the time in my clock AND soMETHING hAPPEN  it change to different times so became trap in the momment of truth for ençver by my Cranky Clock.</p>
+        
+        
+        <h2 id="cracky2">Cranky Clock Trap</h2>
+        <h6>Posted  minutes earlier</h6>
+        
+        <p>The time coordinator mess up my Clock so if I cahnge the time I will trap in time 
+        <p class="STRANGE"> jejejjeje</p>
+        
+       
+    </body>
+</html>
